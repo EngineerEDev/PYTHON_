@@ -1,0 +1,11 @@
+frase=input("Ingrese una frase: ")
+
+mayusculas=frase.upper()
+print("Frase en mayúsculas:", mayusculas)
+minusculas=frase.lower()
+print("Frase en minúsculas:", minusculas)   
+listafrase=frase.split()
+print("Lista de palabras separadas por comas:", listafrase)
+palabras=len(listafrase)
+print("Número de palabras en la frase:", palabras)
+print("¿La frase contiene la palabra 'python'?", "python" in frase.lower())

@@ -1,0 +1,120 @@
+📅 Plan intensivo Python (2 meses)
+🔹 Semana 1 – Fundamentos sólidos (repaso y profundidad)
+
+Día 1: Variables, tipos de datos (int, float, str, bool). Casting.
+
+Día 2: Operadores (aritméticos, lógicos, de comparación).
+
+Día 3: Bucles for y while. break y continue.
+
+Día 4: Listas y tuplas (acceso, slicing, métodos).
+
+Día 5: Diccionarios y conjuntos (uso, métodos, cuándo usar cada uno).
+
+Día 6: Funciones (def, parámetros, valores por defecto, retorno).
+
+Día 7: Proyecto mini: Gestor de contactos en consola con listas/diccionarios.
+
+🔹 Semana 2 – Modularidad y control del flujo
+
+Día 8: Alcance de variables (local vs global).
+
+Día 9: Manejo de errores con try, except, finally.
+
+Día 10: Introducción a módulos y paquetes (import, from).
+
+Día 11: Librerías estándar (math, random, datetime, os).
+
+Día 12: Archivos (lectura, escritura, CSV).
+
+Día 13: Práctica: pequeño analizador de texto (contar palabras, letras).
+
+Día 14: Repaso general con ejercicios.
+
+
+
+🔹 Semana 3 – POO (Programación Orientada a Objetos)
+
+Día 15: Clases, objetos y atributos.
+
+Día 16: Métodos y __init__.
+
+Día 17: Herencia, super().
+
+Día 18: Encapsulación, atributos privados/protegidos.
+
+Día 19: Métodos especiales (__str__, __len__, __getitem__).
+
+Día 20: Proyecto mini: sistema de facturación con clases.
+
+Día 21: Repaso de POO con ejercicios.
+
+🔹 Semana 4 – POO avanzada + Librerías
+
+Día 22: Polimorfismo y clases abstractas.
+
+Día 23: Módulo abc, propiedades con @property.
+
+Día 24: Excepciones personalizadas.
+
+Día 25: Librerías útiles: json, re, time.
+
+Día 26: Introducción a unittest.
+
+Día 27: Proyecto: simulador de un cajero automático con POO.
+
+Día 28: Repaso y ejercicios.
+
+🔹 Semana 5 – Python avanzado
+
+Día 29: Decoradores y *args, **kwargs.
+
+Día 30: Iteradores y generadores (yield).
+
+Día 31: Comprensiones de listas, diccionarios y sets.
+
+Día 32: Manejo de entornos virtuales.
+
+Día 33: Bases de datos con SQLite.
+
+Día 34: Proyecto mini: gestor de inventario con base de datos.
+
+Día 35: Repaso.
+
+🔹 Semana 6 – APIs y automatización
+
+Día 36: Peticiones HTTP con requests.
+
+Día 37: APIs REST (GET, POST, PUT, DELETE).
+
+Día 38: Manejo de JSON y autenticación básica.
+
+Día 39: Automatización de tareas (ej: renombrar archivos).
+
+Día 40: Web scraping con BeautifulSoup.
+
+Día 41: Proyecto: bot que consuma una API pública.
+
+Día 42: Repaso.
+
+🔹 Semana 7 – Rutas de especialización
+
+Dependiendo de lo que quieras:
+
+IA/Data Science: Numpy, Pandas, Matplotlib, Scikit-learn básico.
+
+Control de hardware: MicroPython en ESP32, comunicación serie, sensores y actuadores.
+
+Desarrollo web: Flask o FastAPI.
+
+🔹 Semana 8 – Proyecto final
+
+Escoge un proyecto grande (ejemplo):
+
+Un servidor web con Flask que guarde datos en SQLite.
+
+Un modelo de predicción con Scikit-learn.
+
+Un robot con ESP32 que reciba comandos desde Python.
+
+Los últimos días son 100% para armarlo, documentarlo y presentarlo.
