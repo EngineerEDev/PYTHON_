@@ -13,16 +13,16 @@ def print_date(date):
     print("Minuto actual:", date.minute)
     print("Segundo actual:", date.second)
 
-print_date(now)
+##print_date(now)
 
 
 year_2025= datetime(2025, 1, 1)
 
 
-print(year_2025)
+##print(year_2025)
 
 
-print_date(year_2025)
+##print_date(year_2025)
 
 from datetime import time 
 current_time = time(21,2,30)
@@ -38,4 +38,17 @@ print(current_date.year)
 print(current_date.month)
 print(current_date.day)
 
-print(current_date.year +5, current_date.month+1, current_date.day+1)
+#print(current_date.year +5, current_date.month+1, current_date.day+1)
+
+#print(type(now))
+#print(type(current_time))
+#diff = current_date - year_2025.date() 
+#print(diff)
+
+from datetime import timedelta
+
+
+start_timedelta = timedelta()
+end_timedelta = timedelta(300,100,100,weeks=5)
+print(start_timedelta-end_timedelta)
+print(end_timedelta+end_timedelta)
