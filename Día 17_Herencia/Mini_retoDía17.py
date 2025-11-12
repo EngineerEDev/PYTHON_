@@ -38,6 +38,9 @@ p = Persona("Ana", 30)
 print("\nPersona:")
 p.mostrar_info()
 
+
+
+
 e = Empleado("Luis", 28, 2500)
 print("\nEmpleado:")
 e.mostrar_info()
