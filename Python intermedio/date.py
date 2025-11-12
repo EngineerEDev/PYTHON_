@@ -48,7 +48,7 @@ print(current_date.day)
 from datetime import timedelta
 
 
-start_timedelta = timedelta()
-end_timedelta = timedelta(300,100,100,weeks=5)
+start_timedelta = timedelta(200,100,100,weeks=10)
+end_timedelta = timedelta(300,100,100,weeks=13)
 print(start_timedelta-end_timedelta)
 print(end_timedelta+end_timedelta)
